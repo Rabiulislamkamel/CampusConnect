@@ -1,4 +1,4 @@
-// Fetch departments RAbiul Islam new branch
+// Fetch departments RAbiul Islam new branch created
 function fetchDepartments() {
   hideAllLists();
   document.getElementById('departments-list').classList.remove('hidden');

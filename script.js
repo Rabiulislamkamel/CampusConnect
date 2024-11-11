@@ -1,4 +1,4 @@
-// Fetch departments
+// Fetch departments RAbiul Islam
 function fetchDepartments() {
   hideAllLists();
   document.getElementById('departments-list').classList.remove('hidden');
